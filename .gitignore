@@ -1,3 +1,6 @@
 __pycache__/
-EC2-keypair2.pem
-EC2-keypair2.ppk
+creds/
+app/.mypy_cache/
+*.pem
+*.docx
+logs/

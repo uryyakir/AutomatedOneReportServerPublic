@@ -1,0 +1,9 @@
+###### Requirements without Version Specifiers ######`
+fastapi
+elasticsearch
+uvicorn
+aiofiles
+jinja2
+jwt
+hyper
+cryptography
