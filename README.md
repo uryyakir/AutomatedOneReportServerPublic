@@ -1,6 +1,6 @@
 # This repo is the Backend for my [Automated One Report iOS application](https://github.com/uryyakir/AutomatedOneReportApp).<br>
 ### The backend is structured in the following manner:
-![](https://github.com/uryyakir/AutomatedOneReportServer/blob/master/git/Server%20Side%20Architecture.png?raw=true)
+![](https://github.com/uryyakir/AutomatedOneReportServerPublic/blob/master/git/Server%20Side%20Architecture.png?raw=true)
 - The backend is composed of three services:
   1. AWS EC2 Linux machine
   2. AWS Elasticsearch cluster
