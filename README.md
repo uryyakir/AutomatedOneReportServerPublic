@@ -1,4 +1,4 @@
-# This repo is the Backend for my [Automated One Report iOS application](https://github.com/uryyakir/AutomatedOneReportApp).<br>
+# This repo is the Backend for my [Automated One Report iOS application](https://github.com/uryyakir/AutomatedOneReportAppPublic).<br>
 ### The backend is structured in the following manner:
 ![](https://github.com/uryyakir/AutomatedOneReportServerPublic/blob/master/git/Server%20Side%20Architecture.png?raw=true)
 - The backend is composed of three services:
